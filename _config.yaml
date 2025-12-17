@@ -1,13 +1,13 @@
 title: Marco's Blog
 description: ML Engineering • GPU Optimization • Infrastructure
-url: https://username.github.io
+url: https://mlinmg.github.io
 baseurl: ""
 theme: jekyll-theme-al-folio
 
 # Author info
 author:
   name: Marco
-  url: https://github.com/username
+  url: https://github.com/mlinmg
 
 # Permalink structure
 permalink: /:year/:month/:day/:title/
