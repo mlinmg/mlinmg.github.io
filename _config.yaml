@@ -1,0 +1,29 @@
+title: Marco's Blog
+description: ML Engineering • GPU Optimization • Infrastructure
+url: https://username.github.io
+baseurl: ""
+theme: jekyll-theme-al-folio
+
+# Author info
+author:
+  name: Marco
+  url: https://github.com/username
+
+# Permalink structure
+permalink: /:year/:month/:day/:title/
+
+# Markdown processor
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+# Pagination
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
