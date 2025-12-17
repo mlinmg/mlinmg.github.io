@@ -52,6 +52,9 @@ This blog covers my explorations in systems programming, kernel optimization, an
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/mlinmg"
+  [[params.socialIcons]]
+    name = "huggingface"
+    url = "https://huggingface.co/mlinmg"
 
   # Enable features
   ShowReadingTime = true
